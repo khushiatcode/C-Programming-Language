@@ -1,0 +1,42 @@
+
+1. area
+2. factorial
+3. cube
+4. even odd
+
+#####type 3 (with return type & without argument)
+
+#include<stdio.h>
+
+int sum()
+{
+    int a=4, b=6, f;
+    f = a+b;
+    return(f);
+}
+
+void main()
+{
+    h = sum();
+    printf("%d", h);
+}
+
+
+
+#####type 4 (with return type & with argument)
+
+#include<stdio.h>
+
+int sum(int a, int b)
+{
+    int f;
+    f = a+b;
+    return(f);
+}
+
+void main()
+{
+    int x=4, y=6, h;
+    h = sum(x,y);
+    printf("%d", h);
+}

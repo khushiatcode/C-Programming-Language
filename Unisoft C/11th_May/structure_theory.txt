@@ -1,0 +1,34 @@
+STRUCTURE
+
+It is a coolection of different data type
+struct keyword is used to define a STRUCTURE
+
+There are two ways to access structure members:
+- by . (member or dot operator)
+- by -> (structure pointer operator)
+
+
+SYNTAX:
+
+struct [structure_tag]
+{
+    //member variable 1
+    // mem var 2
+    // mem var 3
+} [structure_variable];
+
+
+Example of structure
+
+struct Student
+{
+    char name[25];
+    int age;
+    char branch[10];
+    char gender;
+};
+
+
+Questions
+1. addition
+2. cube

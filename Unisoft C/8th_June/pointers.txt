@@ -1,0 +1,13 @@
+Pointer - a variable which stores the address of another variable.
+- can be declared using asterisk (*)
+
+
+
+Questions-
+1. Addition using pointers
+2. Swapping of two nos. using pointers
+
+
+Types
+1. Null ptr -
+    - points to nothing

@@ -1,0 +1,26 @@
+
+
+- String is 1D array of characters terminated by a null '\0'
+- we must add the header file <string.h>
+- '%s' is the format specifier used fpr printing the string.
+
+String initialization
+Two ways:
+
+1. char a[] = "Ayaan";
+2. char b[] = {'A', 'Y', 'A', 'A', 'N', '\0' };
+
+
+
+******GETS() and PUTS()**********
+
+gets() - scanf()
+puts() - printf()
+
+
+
+1. Check mobile no.'s length is correct or not.
+2. Check whether the given string is a palindrome or not
+3. reverse string w/o using function
+4. print no. of digits and characters in an input string
+

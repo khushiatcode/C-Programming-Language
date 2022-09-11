@@ -1,0 +1,32 @@
+Syntax
+
+switch (condition) 
+{
+    case 1:
+    #statement
+    break;
+
+    case 2:
+    #statement
+    break;
+
+    default:
+    #statement;
+}
+
+
+eg. int a = 1;
+
+switch(a)
+{
+    case 1:
+    print('a');
+    break;
+
+    case 2:
+    print('b');
+    break;
+
+    default:
+    print("invalid char")
+}

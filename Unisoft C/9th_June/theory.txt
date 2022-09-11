@@ -1,0 +1,26 @@
+4. Wild pointer (pg 39)
+
+A pointer in C that has not been initialized till its first use is called the Wild ptr. It points to some random mem location
+
+
+5. Complex pointer 
+int (*p)[10]
+
+6. 
+
+7. Far pointer (16 segments and 4 bytes)
+
+8. Huge pointer (32 segments and 4 bytes)
+
+
+
+
+Local variable
+
+Global variable
+
+Storage and Classes
+
+for Using Global var locally, we use the keyword "extern" //Now it is outdated
+
+calloc, malloc, realloc //page 55 

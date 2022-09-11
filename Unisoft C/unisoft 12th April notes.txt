@@ -1,0 +1,40 @@
+RELATIONAL OPERATORS (<, >, <=, >=, ==)  #== is used for comparison
+
+TRUE - 1
+FALSE - 0
+
+LOGICAL OPERATORS (&&, ||, !)      #and, or, not
+
+INCREMENT AND DECREMENT (a++, a--, ++a, --a)
+
+SIZEOF OPERATOR 
+
+- ADDRESS OPERATOR
+
+%d - signed
+%u - unsigned
+
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
+
+void main()
+{
+int a = -4;
+clrscr();
+printf("ans: %d", &a); # -12
+printf("ans: %u", &a); # 655523
+printf("ans: %d", abs(a));  #4
+
+getch();
+
+}
+
+
+
+- BITWISE OPERATORS (&, |, ^, ~, >>, <<)
+& - bit values od numbers are multiplied
+| - truth table wala OR   
+XOR - same = 0; opposite = 1;
+^ - power operator
+~ - negat operator

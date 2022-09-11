@@ -1,0 +1,6 @@
+
+week days
+vowels
+check if the number is positive or negative
+male female
+calculator

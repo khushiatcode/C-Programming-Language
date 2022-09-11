@@ -1,0 +1,12 @@
+Array
+
+Ways to initialize an Array
+
+int arr[5] = {1,2,3,4,5};
+int arr[] = {1,2,3,4,5};
+
+size = size of array x size of data type
+size = 5 x 2 (for int) = 10
+
+
+
